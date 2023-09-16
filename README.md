@@ -74,7 +74,7 @@ next step is to go to our running instance and connect
 
 
 Time contrubited by each team member:
-1. Azamat - 20
-2. Ulan - 20
-3. Aidai - 10
-4. Meruert - 10
+1. Azamat - 25
+2. Ulan - 25
+3. Aidai - 25
+4. Meruert - 25
